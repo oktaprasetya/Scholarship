@@ -1,50 +1,110 @@
 [
-    {
-        "universityLogo": "http://tiny.cc/1mh7yz",
-        "course": "Diploma Certificate in Arabic as a Foreign Language (DCAFL)",
-        "program": "Diploma",
-        "link": "https://www.secclo.eu/"
-    },
-    {
-        "universityLogo": "https://s.id/22MJ3",
-        "course": "SECCLO - Master's programme in Security and Cloud Computing",
-        "program": "S2",
-        "link": "https://www.secclo.eu/"
-    },
-    {
-        "universityLogo": "https://bit.ly/3SJtDpB",
-        "course": "SECCLO - Master's programme in Security and Cloud Computing",
-        "program": "S2",
-        "link": "https://www.secclo.eu/"
-    },
-    {
-        "universityLogo": "https://bit.ly/4bKfTUs",
-        "course": "SECCLO - Master's programme in Security and Cloud Computing",
-        "program": "S3",
-        "link": "https://admission.cuhk.edu.hk/fees-financing-your-studies/scholarships/admission-scholarships-for-undergraduates-only/"
-    },
-    {
-        "universityLogo": "https://bit.ly/42J31d6",
-        "course": "MEXT - School of Bioresource and Bioenvironmental Sciences - Kyushu University",
-        "program": "S3",
-        "link": "https://admission.cuhk.edu.hk/fees-financing-your-studies/scholarships/admission-scholarships-for-undergraduates-only/"
-    },
-    {
-        "universityLogo": "https://bit.ly/42J31d6",
-        "course": "ADB JSP - Graduate School of Bioresource and Bioenvironmental Sciences",
-        "program": "S2",
-        "link": "https://www.agr.kyushu-u.ac.jp/english/"
-    },
-    {
-        "universityLogo": "https://bit.ly/42MVieb",
-        "course": "AMINEF - CCIP (Community College Initiative)",
-        "program": "Non Degree",
-        "link": "https://www.aminef.or.id/grants-for-indonesians/fulbright-programs/fellowships/community-college-initiative-program/"
-    },
-    {
-        "universityLogo": "https://s.id/1ohSv",
-        "course": "ANU Chancellor’s International Scholarship",
-        "program": "S1",
-        "link": "https://www.anu.edu.au/study/scholarships/find-a-scholarship/anu-chancellors-international-scholarship"
-    }
+  {
+    "universityLogo": "http://tiny.cc/1mh7yz",
+    "course": "Diploma Certificate in Arabic as a Foreign Language (DCAFL)",
+    "program": "Diploma",
+    "country": "Arab Saudi",
+    "university": "King Abdulazis University",
+    "scholarshipDetail": "Full Scholarship",
+    "link": "https://form.jotform.com/241242015126441"
+  },
+  {
+    "universityLogo": "https://s.id/22MJ3",
+    "course": "SECCLO - Master's programme in Security and Cloud Computing",
+    "program": "S2",
+    "country": "France",
+    "university": "EURECOM",
+    "scholarshipDetail": "Full Scholarship",
+    "link": "https://form.jotform.com/241242015126441"
+  },
+  {
+    "universityLogo": "https://s.id/22MIk",
+    "course": "SECCLO - Master's programme in Security and Cloud Computing",
+    "program": "S2",
+    "country": "Denmark",
+    "university": "Technical University of Denmark",
+    "scholarshipDetail": "Full Scholarship",
+    "link": "https://form.jotform.com/241242015126441"
+  },
+  {
+    "universityLogo": "https://s.id/22MFZ",
+    "course": "SECCLO - Master's programme in Security and Cloud Computing",
+    "program": "S2",
+    "country": "Norway",
+    "university": "Norwegian University of Science and Technology",
+    "scholarshipDetail": "Full Scholarship",
+    "link": "https://form.jotform.com/241242015126441"
+  },
+  {
+    "universityLogo": "https://bit.ly/3SJtDpB",
+    "course": "SECCLO - Master's programme in Security and Cloud Computing",
+    "program": "S2",
+    "country": "Finland",
+    "university": "Aalto University",
+    "scholarshipDetail": "Full Scholarship",
+    "link": "https://form.jotform.com/241242015126441"
+  },
+  {
+    "universityLogo": "https://bit.ly/4bKfTUs",
+    "course": "SECCLO - Master's programme in Security and Cloud Computing",
+    "program": "S2",
+    "country": "Sweden",
+    "university": "Kungliga Tekniska Högskolan (KTH) - Royal Institute of Technology",
+    "scholarshipDetail": "Full Scholarship",
+    "link": "https://form.jotform.com/241242015126441"
+  },
+  {
+    "universityLogo": "https://bit.ly/3T5Fyjd",
+    "course": "SECCLO - Master's programme in Security and Cloud Computing",
+    "program": "S2",
+    "country": "Estonia",
+    "university": "University of Tartu",
+    "scholarshipDetail": "Full Scholarship",
+    "link": "https://form.jotform.com/241242015126441"
+  },
+  {
+    "universityLogo": "https://bit.ly/3UNo6Bg",
+    "course": "Chinese University of Hong Kong Admission Scholarships (CUHK)",
+    "program": "S1",
+    "country": "Hong Kong",
+    "university": "Chinese University of Hong Kong",
+    "scholarshipDetail": "Full Scholarship",
+    "link": "https://form.jotform.com/241242015126441"
+  },
+  {
+    "universityLogo": "https://bit.ly/42J31d6",
+    "course": "MEXT - School of Bioresource and Bioenvironmental Sciences - Kyushu University",
+    "program": "S3",
+    "country": "Japan",
+    "university": "Kyushu University",
+    "scholarshipDetail": "Full Scholarship",
+    "link": "https://form.jotform.com/241242015126441"
+  },
+  {
+    "universityLogo": "https://bit.ly/42J31d6",
+    "course": "ADB JSP - Graduate School of Bioresource and Bioenvironmental Sciences",
+    "program": "S2",
+    "country": "Japan",
+    "university": "Kyushu University",
+    "scholarshipDetail": "Full Scholarship",
+    "link": "https://form.jotform.com/241242015126441"
+  },
+  {
+    "universityLogo": "https://bit.ly/42MVieb",
+    "course": "AMINEF - CCIP (Community College Initiative)",
+    "program": "Non Degree",
+    "country": "USA",
+    "university": "Selected Community College",
+    "scholarshipDetail": "Full Scholarship",
+    "link": "https://form.jotform.com/241242015126441"
+  },
+  {
+    "universityLogo": "https://s.id/1ohSv",
+    "course": "ANU Chancellor’s International Scholarship",
+    "program": "S1",
+    "country": "Australia",
+    "university": "Australian National Unievrsity",
+    "scholarshipDetail": "25% or 50%",
+    "link": "https://form.jotform.com/241242015126441"
+  }
 ]
