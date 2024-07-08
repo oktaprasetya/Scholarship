@@ -1,120 +1,102 @@
+[
 {
-  "provider": "King Abdulaziz University",
-  "scholarship": "Diploma Certificate in Arabic as a Foreign Language (DCAFL) Scholarship",
-  "type": "Full Scholarship",
-  "location": "Arab Saudi",
-  "university": "King Abdulaziz University",
-  "program": "Diploma",
-  "registerLink": "https://form.jotform.com/241242015126441",
-  "image": "http://tiny.cc/1mh7yz"
+    "Provider": "https://www.secclo.eu/",
+    "Scholarship": "SECCLO - Master's programme in Security and Cloud Computing",
+    "Type": "Full Scholarship",
+    "Location": "France",
+    "University": "EURECOM",
+    "Program": "S2",
+    "DaftarLink": "https://form.jotform.com/241242015126441"
 },
 {
-  "provider": "EURECOM",
-  "scholarship": "SECCLO - Master's programme in Security and Cloud Computing",
-  "type": "Full Scholarship",
-  "location": "France",
-  "university": "EURECOM",
-  "program": "S2",
-  "registerLink": "https://form.jotform.com/241242015126441",
-  "image": "https://s.id/22MJ3"
+    "Provider": "https://www.secclo.eu/",
+    "Scholarship": "SECCLO - Master's programme in Security and Cloud Computing",
+    "Type": "Full Scholarship",
+    "Location": "Denmark",
+    "University": "Technical University of Denmark",
+    "Program": "S2",
+    "DaftarLink": "https://form.jotform.com/241242015126441"
 },
 {
-  "provider": "Technical University of Denmark",
-  "scholarship": "SECCLO - Master's programme in Security and Cloud Computing",
-  "type": "Full Scholarship",
-  "location": "Denmark",
-  "university": "Technical University of Denmark",
-  "program": "S2",
-  "registerLink": "https://form.jotform.com/241242015126441",
-  "image": "https://s.id/22MIk"
+    "Provider": "https://www.secclo.eu/",
+    "Scholarship": "SECCLO - Master's programme in Security and Cloud Computing",
+    "Type": "Full Scholarship",
+    "Location": "Norway",
+    "University": "Norwegian University of Science and Technology",
+    "Program": "S2",
+    "DaftarLink": "https://form.jotform.com/241242015126441"
 },
 {
-  "provider": "Norwegian University of Science and Technology",
-  "scholarship": "SECCLO - Master's programme in Security and Cloud Computing",
-  "type": "Full Scholarship",
-  "location": "Norway",
-  "university": "Norwegian University of Science and Technology",
-  "program": "S2",
-  "registerLink": "https://form.jotform.com/241242015126441",
-  "image": "https://s.id/22MFZ"
+    "Provider": "https://www.secclo.eu/",
+    "Scholarship": "SECCLO - Master's programme in Security and Cloud Computing",
+    "Type": "Full Scholarship",
+    "Location": "Finland",
+    "University": "Aalto University",
+    "Program": "S2",
+    "DaftarLink": "https://form.jotform.com/241242015126441"
 },
 {
-  "provider": "Aalto University",
-  "scholarship": "SECCLO - Master's programme in Security and Cloud Computing",
-  "type": "Full Scholarship",
-  "location": "Finland",
-  "university": "Aalto University",
-  "program": "S2",
-  "registerLink": "https://form.jotform.com/241242015126441",
-  "image": "https://bit.ly/3SJtDpB"
+    "Provider": "https://www.secclo.eu/",
+    "Scholarship": "SECCLO - Master's programme in Security and Cloud Computing",
+    "Type": "Full Scholarship",
+    "Location": "Sweden",
+    "University": "Kungliga Tekniska Högskolan (KTH) - Royal Institute of Technology",
+    "Program": "S2",
+    "DaftarLink": "https://form.jotform.com/241242015126441"
 },
 {
-  "provider": "Kungliga Tekniska Högskolan (KTH) - Royal Institute of Technology",
-  "scholarship": "SECCLO - Master's programme in Security and Cloud Computing",
-  "type": "Full Scholarship",
-  "location": "Sweden",
-  "university": "Kungliga Tekniska Högskolan (KTH) - Royal Institute of Technology",
-  "program": "S2",
-  "registerLink": "https://form.jotform.com/241242015126441",
-  "image": "https://bit.ly/4bKfTUs"
+    "Provider": "https://www.secclo.eu/",
+    "Scholarship": "SECCLO - Master's programme in Security and Cloud Computing",
+    "Type": "Full Scholarship",
+    "Location": "Estonia",
+    "University": "University of Tartu",
+    "Program": "S2",
+    "DaftarLink": "https://form.jotform.com/241242015126441"
 },
 {
-  "provider": "University of Tartu",
-  "scholarship": "SECCLO - Master's programme in Security and Cloud Computing",
-  "type": "Full Scholarship",
-  "location": "Estonia",
-  "university": "University of Tartu",
-  "program": "S2",
-  "registerLink": "https://form.jotform.com/241242015126441",
-  "image": "https://bit.ly/3T5Fyjd"
+    "Provider": "https://admission.cuhk.edu.hk/fees-financing-your-studies/scholarships/admission-scholarships-for-undergraduates-only/",
+    "Scholarship": "Chinese University of Hong Kong Admission Scholarships (CUHK)",
+    "Type": "Full Scholarship",
+    "Location": "Hong Kong",
+    "University": "Chinese University of Hong Kong",
+    "Program": "S1",
+    "DaftarLink": "https://form.jotform.com/241242015126441"
 },
 {
-  "provider": "Chinese University of Hong Kong",
-  "scholarship": "Chinese University of Hong Kong Admission Scholarships (CUHK)",
-  "type": "Full Scholarship",
-  "location": "Hong Kong",
-  "university": "Chinese University of Hong Kong",
-  "program": "S1",
-  "registerLink": "https://form.jotform.com/241242015126441",
-  "image": "https://bit.ly/3UNo6Bg"
+    "Provider": "https://admission.cuhk.edu.hk/fees-financing-your-studies/scholarships/admission-scholarships-for-undergraduates-only/",
+    "Scholarship": "MEXT - School of Bioresource and Bioenvironmental Sciences - Kyushu University",
+    "Type": "Full Scholarship",
+    "Location": "Japan",
+    "University": "Kyushu University",
+    "Program": "S3",
+    "DaftarLink": "https://form.jotform.com/241242015126441"
 },
 {
-  "provider": "Kyushu University",
-  "scholarship": "MEXT - School of Bioresource and Bioenvironmental Sciences - Kyushu University",
-  "type": "Full Scholarship",
-  "location": "Japan",
-  "university": "Kyushu University",
-  "program": "S3",
-  "registerLink": "https://form.jotform.com/241242015126441",
-  "image": "https://bit.ly/42J31d6"
+    "Provider": "https://www.agr.kyushu-u.ac.jp/english/",
+    "Scholarship": "ADB JSP - Graduate School of Bioresource and Bioenvironmental Sciences",
+    "Type": "Full Scholarship",
+    "Location": "Japan",
+    "University": "Kyushu University",
+    "Program": "S2",
+    "DaftarLink": "https://form.jotform.com/241242015126441"
 },
 {
-  "provider": "Kyushu University",
-  "scholarship": "ADB JSP - Graduate School of Bioresource and Bioenvironmental Sciences",
-  "type": "Full Scholarship",
-  "location": "Japan",
-  "university": "Kyushu University",
-  "program": "S2",
-  "registerLink": "https://form.jotform.com/241242015126441",
-  "image": "https://bit.ly/42J31d6"
+    "Provider": "https://www.aminef.or.id/grants-for-indonesians/fulbright-programs/fellowships/community-college-initiative-program/",
+    "Scholarship": "AMINEF - CCIP (Community College Initiative)",
+    "Type": "Full Scholarship",
+    "Location": "USA",
+    "University": "Selected Community College",
+    "Program": "Non Degree",
+    "DaftarLink": "https://form.jotform.com/241242015126441"
 },
 {
-  "provider": "Selected Community College",
-  "scholarship": "AMINEF - CCIP (Community College Initiative)",
-  "type": "Full Scholarship",
-  "location": "USA",
-  "university": "Selected Community College",
-  "program": "Non Degree",
-  "registerLink": "https://form.jotform.com/241242015126441",
-  "image": "https://bit.ly/42MVieb"
-},
-{
-  "provider": "Australian National University",
-  "scholarship": "ANU Chancellor’s International Scholarship",
-  "type": "25% or 50%",
-  "location": "Australia",
-  "university": "Australian National University",
-  "program": "S1",
-  "registerLink": "https://form.jotform.com/241242015126441",
-  "image": "https://s.id/1ohSv"
+    "Provider": "https://www.anu.edu.au/study/scholarships/find-a-scholarship/anu-chancellors-international-scholarship",
+    "Scholarship": "ANU Chancellor’s International Scholarship",
+    "Type": "25% or 50%",
+    "Location": "Australia",
+    "University": "Australian National Unievrsity",
+    "Program": "S1",
+    "DaftarLink": "https://form.jotform.com/241242015126441"
 }
+
+]
