@@ -1,102 +1,158 @@
 [
-{
-    "Provider": "https://www.secclo.eu/",
-    "Scholarship": "SECCLO - Master's programme in Security and Cloud Computing",
-    "Type": "Full Scholarship",
-    "Location": "France",
-    "University": "EURECOM",
-    "Program": "S2",
-    "DaftarLink": "https://form.jotform.com/241242015126441"
-},
-{
-    "Provider": "https://www.secclo.eu/",
-    "Scholarship": "SECCLO - Master's programme in Security and Cloud Computing",
-    "Type": "Full Scholarship",
-    "Location": "Denmark",
-    "University": "Technical University of Denmark",
-    "Program": "S2",
-    "DaftarLink": "https://form.jotform.com/241242015126441"
-},
-{
-    "Provider": "https://www.secclo.eu/",
-    "Scholarship": "SECCLO - Master's programme in Security and Cloud Computing",
-    "Type": "Full Scholarship",
-    "Location": "Norway",
-    "University": "Norwegian University of Science and Technology",
-    "Program": "S2",
-    "DaftarLink": "https://form.jotform.com/241242015126441"
-},
-{
-    "Provider": "https://www.secclo.eu/",
-    "Scholarship": "SECCLO - Master's programme in Security and Cloud Computing",
-    "Type": "Full Scholarship",
-    "Location": "Finland",
-    "University": "Aalto University",
-    "Program": "S2",
-    "DaftarLink": "https://form.jotform.com/241242015126441"
-},
-{
-    "Provider": "https://www.secclo.eu/",
-    "Scholarship": "SECCLO - Master's programme in Security and Cloud Computing",
-    "Type": "Full Scholarship",
-    "Location": "Sweden",
-    "University": "Kungliga Tekniska Högskolan (KTH) - Royal Institute of Technology",
-    "Program": "S2",
-    "DaftarLink": "https://form.jotform.com/241242015126441"
-},
-{
-    "Provider": "https://www.secclo.eu/",
-    "Scholarship": "SECCLO - Master's programme in Security and Cloud Computing",
-    "Type": "Full Scholarship",
-    "Location": "Estonia",
-    "University": "University of Tartu",
-    "Program": "S2",
-    "DaftarLink": "https://form.jotform.com/241242015126441"
-},
-{
-    "Provider": "https://admission.cuhk.edu.hk/fees-financing-your-studies/scholarships/admission-scholarships-for-undergraduates-only/",
-    "Scholarship": "Chinese University of Hong Kong Admission Scholarships (CUHK)",
-    "Type": "Full Scholarship",
-    "Location": "Hong Kong",
-    "University": "Chinese University of Hong Kong",
-    "Program": "S1",
-    "DaftarLink": "https://form.jotform.com/241242015126441"
-},
-{
-    "Provider": "https://admission.cuhk.edu.hk/fees-financing-your-studies/scholarships/admission-scholarships-for-undergraduates-only/",
-    "Scholarship": "MEXT - School of Bioresource and Bioenvironmental Sciences - Kyushu University",
-    "Type": "Full Scholarship",
-    "Location": "Japan",
-    "University": "Kyushu University",
-    "Program": "S3",
-    "DaftarLink": "https://form.jotform.com/241242015126441"
-},
-{
-    "Provider": "https://www.agr.kyushu-u.ac.jp/english/",
-    "Scholarship": "ADB JSP - Graduate School of Bioresource and Bioenvironmental Sciences",
-    "Type": "Full Scholarship",
-    "Location": "Japan",
-    "University": "Kyushu University",
-    "Program": "S2",
-    "DaftarLink": "https://form.jotform.com/241242015126441"
-},
-{
-    "Provider": "https://www.aminef.or.id/grants-for-indonesians/fulbright-programs/fellowships/community-college-initiative-program/",
-    "Scholarship": "AMINEF - CCIP (Community College Initiative)",
-    "Type": "Full Scholarship",
-    "Location": "USA",
-    "University": "Selected Community College",
-    "Program": "Non Degree",
-    "DaftarLink": "https://form.jotform.com/241242015126441"
-},
-{
-    "Provider": "https://www.anu.edu.au/study/scholarships/find-a-scholarship/anu-chancellors-international-scholarship",
-    "Scholarship": "ANU Chancellor’s International Scholarship",
-    "Type": "25% or 50%",
-    "Location": "Australia",
-    "University": "Australian National Unievrsity",
-    "Program": "S1",
-    "DaftarLink": "https://form.jotform.com/241242015126441"
-}
-
+    {
+        "provider": "http://tiny.cc/1mh7yz",
+        "scholarship": {
+            "name": "Diploma Certificate in Arabic as a Foreign Language (DCAFL) Scholarship",
+            "link": "https://www.secclo.eu/"
+        },
+        "type": "Full Scholarship",
+        "location": "Arab Saudi",
+        "university": "King Abdulazis University",
+        "program": "Diploma",
+        "daftar_link": "https://form.jotform.com/241242015126441"
+    },
+    {
+        "provider": "http://tiny.cc/1mh7yz",
+        "scholarship": {
+            "name": "Diploma Certificate in Arabic as a Foreign Language (DCAFL) Scholarship",
+            "link": "https://www.secclo.eu/"
+        },
+        "type": "Full Scholarship",
+        "location": "Arab Saudi",
+        "university": "King Abdulazis University",
+        "program": "Diploma",
+        "daftar_link": "https://form.jotform.com/241242015126441"
+    },
+    {
+        "provider": "https://s.id/22MJ3",
+        "scholarship": {
+            "name": "SECCLO - Master's programme in Security and Cloud Computing",
+            "link": "https://www.secclo.eu/"
+        },
+        "type": "Full Scholarship",
+        "location": "France",
+        "university": "EURECOM",
+        "program": "S2",
+        "daftar_link": "https://form.jotform.com/241242015126441"
+    },
+    {
+        "provider": "https://s.id/22MIk",
+        "scholarship": {
+            "name": "SECCLO - Master's programme in Security and Cloud Computing",
+            "link": "https://www.secclo.eu/"
+        },
+        "type": "Full Scholarship",
+        "location": "Denmark",
+        "university": "Technical University of Denmark",
+        "program": "S2",
+        "daftar_link": "https://form.jotform.com/241242015126441"
+    },
+    {
+        "provider": "https://s.id/22MFZ",
+        "scholarship": {
+            "name": "SECCLO - Master's programme in Security and Cloud Computing",
+            "link": "https://www.secclo.eu/"
+        },
+        "type": "Full Scholarship",
+        "location": "Norway",
+        "university": "Norwegian University of Science and Technology",
+        "program": "S2",
+        "daftar_link": "https://form.jotform.com/241242015126441"
+    },
+    {
+        "provider": "https://bit.ly/3SJtDpB",
+        "scholarship": {
+            "name": "SECCLO - Master's programme in Security and Cloud Computing",
+            "link": "https://www.secclo.eu/"
+        },
+        "type": "Full Scholarship",
+        "location": "Finland",
+        "university": "Aalto University",
+        "program": "S2",
+        "daftar_link": "https://form.jotform.com/241242015126441"
+    },
+    {
+        "provider": "https://bit.ly/4bKfTUs",
+        "scholarship": {
+            "name": "SECCLO - Master's programme in Security and Cloud Computing",
+            "link": "https://www.secclo.eu/"
+        },
+        "type": "Full Scholarship",
+        "location": "Sweden",
+        "university": "Kungliga Tekniska Högskolan (KTH) - Royal Institute of Technology",
+        "program": "S2",
+        "daftar_link": "https://form.jotform.com/241242015126441"
+    },
+    {
+        "provider": "https://bit.ly/3T5Fyjd",
+        "scholarship": {
+            "name": "SECCLO - Master's programme in Security and Cloud Computing",
+            "link": "https://www.secclo.eu/"
+        },
+        "type": "Full Scholarship",
+        "location": "Estonia",
+        "university": "University of Tartu",
+        "program": "S2",
+        "daftar_link": "https://form.jotform.com/241242015126441"
+    },
+    {
+        "provider": "https://bit.ly/3UNo6Bg",
+        "scholarship": {
+            "name": "Chinese University of Hong Kong Admission Scholarships (CUHK)",
+            "link": "https://admission.cuhk.edu.hk/fees-financing-your-studies/scholarships/admission-scholarships-for-undergraduates-only/"
+        },
+        "type": "Full Scholarship",
+        "location": "Hong Kong",
+        "university": "Chinese University of Hong Kong",
+        "program": "S1",
+        "daftar_link": "https://form.jotform.com/241242015126441"
+    },
+    {
+        "provider": "https://bit.ly/42J31d6",
+        "scholarship": {
+            "name": "MEXT - School of Bioresource and Bioenvironmental Sciences - Kyushu University",
+            "link": "https://admission.cuhk.edu.hk/fees-financing-your-studies/scholarships/admission-scholarships-for-undergraduates-only/"
+        },
+        "type": "Full Scholarship",
+        "location": "Japan",
+        "university": "Kyushu University",
+        "program": "S3",
+        "daftar_link": "https://form.jotform.com/241242015126441"
+    },
+    {
+        "provider": "https://bit.ly/42J31d6",
+        "scholarship": {
+            "name": "ADB JSP - Graduate School of Bioresource and Bioenvironmental Sciences",
+            "link": "https://www.agr.kyushu-u.ac.jp/english/"
+        },
+        "type": "Full Scholarship",
+        "location": "Japan",
+        "university": "Kyushu University",
+        "program": "S2",
+        "daftar_link": "https://form.jotform.com/241242015126441"
+    },
+    {
+        "provider": "https://bit.ly/42MVieb",
+        "scholarship": {
+            "name": "AMINEF - CCIP (Community College Initiative)",
+            "link": "https://www.aminef.or.id/grants-for-indonesians/fulbright-programs/fellowships/community-college-initiative-program/"
+        },
+        "type": "Full Scholarship",
+        "location": "USA",
+        "university": "Selected Community College",
+        "program": "Non Degree",
+        "daftar_link": "https://form.jotform.com/241242015126441"
+    },
+    {
+        "provider": "https://s.id/1ohSv",
+        "scholarship": {
+            "name": "ANU Chancellor’s International Scholarship",
+            "link": "https://www.anu.edu.au/study/scholarships/find-a-scholarship/anu-chancellors-international-scholarship"
+        },
+        "type": "25% or 50%",
+        "location": "Australia",
+        "university": "Australian National Unievrsity",
+        "program": "S1",
+        "daftar_link": "https://form.jotform.com/241242015126441"
+    }
 ]
