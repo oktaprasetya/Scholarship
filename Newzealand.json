@@ -1,11 +1,13 @@
+
 [
   {
-    "image": "https://bit.ly/3ODgQDk",
-    "link": "https://aut.communityforce.com/Funds/Search.aspx",
-    "scholarship": "Ahuahu Fund for Conservation Biology Scholarship",
-    "type": "Partial Scholarship",
-    "degree": "Graduate and Postgraduate, Postgraduate Research, PhD, Doctoral",
-    "value": "Stipend awards of up to $1000 (or the limit of available funds if less)"
+    "universityLogo": "https://bit.ly/3ODgQDk",
+    "course": "Ahuahu Fund for Conservation Biology Scholarship",
+    "scholarshipLink": "https://aut.communityforce.com/Funds/Search.aspx",
+    "program": "Graduate and Postgraduate, Postgraduate Research, PhD, Doctoral",
+    "country": "Australia",
+    "university": "Auckland University Of Technology",
+    "scholarshipDetail": "Stipend awards of up to $1000 (or the limit of available funds if less)",
+    "link": "https://form.jotform.com/241242015126441"
   }
-  
 ]
