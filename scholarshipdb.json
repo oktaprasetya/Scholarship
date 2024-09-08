@@ -21,13 +21,34 @@
   {"universityLogo": "http://tiny.cc/SS-BK-EURECOM","course": "Beasiswa Kominfo - MSc in Digital Security","scholarshipLink": "https://beasiswa.kominfo.go.id/profil-universitas/65d4bd95ee204c210dbd8b91/","program": "S2","country": "France","university": "EURECOM","scholarshipDetail": "Full Scholarship","link": "https://form.jotform.com/241242015126441"},
   {"universityLogo": "http://tiny.cc/SS-BK-EURECOM","course": "Beasiswa Kominfo - Master of science in Intelligent Communication Systems","scholarshipLink": "https://beasiswa.kominfo.go.id/profil-universitas/65d4bd95ee204c210dbd8b91/","program": "S2","country": "France","university": "EURECOM","scholarshipDetail": "Full Scholarship","link": "https://form.jotform.com/241242015126441"},
   {"universityLogo": "http://tiny.cc/SS-BK-EURECOM","course": "Beasiswa Kominfo - Master of Science in Data Science","scholarshipLink": "https://beasiswa.kominfo.go.id/profil-universitas/65d4bd95ee204c210dbd8b91/","program": "S2","country": "France","university": "EURECOM","scholarshipDetail": "Full Scholarship","link": "https://form.jotform.com/241242015126441"},
+  {"universityLogo": "http://tiny.cc/SS-BK-EURECOM","course": "Beasiswa Kominfo - Master of Science in Internet of Things (IoT)","scholarshipLink": "https://beasiswa.kominfo.go.id/profil-universitas/65d4bd95ee204c210dbd8b91/","program": "S2","country": "France","university": "EURECOM","scholarshipDetail": "Full Scholarship","link": "https://form.jotform.com/241242015126441"},
   {
-    "universityLogo": "http://tiny.cc/SS-BK-EURECOM",
-    "course": "Beasiswa Kominfo - Master of Science in Internet of Things (IoT)",
-    "scholarshipLink": "https://beasiswa.kominfo.go.id/profil-universitas/65d4bd95ee204c210dbd8b91/",
+    "universityLogo": "http://tiny.cc/SS-BK-Atlantique",
+    "course": "Beasiswa Kominfo - MSc Information Technology / Track Data Science",
+    "scholarshipLink": "https://beasiswa.kominfo.go.id/profil-universitas/65d4bf23ee204c210dbd8d8e/",
     "program": "S2",
     "country": "France",
-    "university": "EURECOM",
+    "university": "Universitas IMT Atlantique",
+    "scholarshipDetail": "Full Scholarship",
+    "link": "https://form.jotform.com/241242015126441"
+  },
+  {
+    "universityLogo": "http://tiny.cc/SS-BK-Atlantique",
+    "course": "Beasiswa Kominfo - MSc Information Technology / Track Architecture and Engineering for the Internet of Things",
+    "scholarshipLink": "https://beasiswa.kominfo.go.id/profil-universitas/65d4bf23ee204c210dbd8d8e/",
+    "program": "S2",
+    "country": "France",
+    "university": "Universitas IMT Atlantique",
+    "scholarshipDetail": "Full Scholarship",
+    "link": "https://form.jotform.com/241242015126441"
+  },
+  {
+    "universityLogo": "http://tiny.cc/SS-BK-Atlantique",
+    "course": "Beasiswa Kominfo - MSc Information Technology / Track Communication System and Network Engineering",
+    "scholarshipLink": "https://beasiswa.kominfo.go.id/profil-universitas/65d4bf23ee204c210dbd8d8e/",
+    "program": "S2",
+    "country": "France",
+    "university": "Universitas IMT Atlantique",
     "scholarshipDetail": "Full Scholarship",
     "link": "https://form.jotform.com/241242015126441"
   }
