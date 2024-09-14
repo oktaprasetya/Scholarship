@@ -1,0 +1,23 @@
+{
+  "universities": 
+  [
+    {
+      "universityId": 1,
+      "name": "Anglia Ruskin University",
+      "universityLogo": "http://tiny.cc/SS-ARU",
+      "courses": 
+      [
+        {"course": "Earmarked scholarships scheme to support Category 1 project grants",
+          "scholarshipLink": "https://scholarships.uq.edu.au/scholarship/earmarked-scholarships-support-category-1-project-grants",
+          "program": "Postgraduate research (HDR)",
+          "university": "University Of Queensland (UQ)",
+          "scholarshipDetail": "Partial Scholarship - Living stipend of $35,000 per annum tax free (indexed annually), your tuition fees covered, and Single Overseas Student Health Cover (OSHC)",
+          "link": "https://form.jotform.com/241242015126441"
+        },
+        
+
+
+      ]
+    }
+  ]
+}
