@@ -1,23 +1,21 @@
 {
-  "universities": 
-  [
+  "country": "Australia",
+  "universityLogo": "http://tiny.cc/SS-ANU",
+  "university": "Australian National University (ANU)",
+  "scholarships": [
     {
-      "universityId": 1,
-      "name": "Anglia Ruskin University",
-      "universityLogo": "http://tiny.cc/SS-ARU",
-      "courses": 
-      [
-        {"course": "Earmarked scholarships scheme to support Category 1 project grants",
-          "scholarshipLink": "https://scholarships.uq.edu.au/scholarship/earmarked-scholarships-support-category-1-project-grants",
-          "program": "Postgraduate research (HDR)",
-          "university": "University Of Queensland (UQ)",
-          "scholarshipDetail": "Partial Scholarship - Living stipend of $35,000 per annum tax free (indexed annually), your tuition fees covered, and Single Overseas Student Health Cover (OSHC)",
-          "link": "https://form.jotform.com/241242015126441"
-        },
-        
-
-
-      ]
+      "course": "ANU Chancellor’s International Scholarship",
+      "scholarshipLink": "https://www.anu.edu.au/study/scholarships/find-a-scholarship/anu-chancellors-international-scholarship",
+      "program": "Undergraduate, Postgraduate coursework, Flexible double degree, Graduate Certificate, Master Degree",
+      "scholarshipDetail": "Partial Scholarship - 25% or 50%",
+      "link": "https://form.jotform.com/241242015126441"
+    },
+    {
+      "course": "ANU Humanitarian Scholarship",
+      "scholarshipLink": "https://www.anu.edu.au/study/scholarships/find-a-scholarship/anu-humanitarian-scholarship",
+      "program": "Undergraduate, Flexible double degree",
+      "scholarshipDetail": "Partial Scholarship - Total value of $69,624 over 4 years + tuition fee waiver",
+      "link": "https://form.jotform.com/241242015126441"
     }
   ]
 }
